@@ -1,0 +1,39 @@
+{
+  "ownerNumber": [
+    "6285701203115@s.whatsapp.net"
+  ],
+  "ownerName": "Akane Chiwa ><",
+  "instagram": "https://instagram.com/akane_chiwa",
+  "gcwa": "https://chat.whatsapp.com/DDtWzP8pJqd1dpLRpmvNGg",
+  "website": "https://linktr.ee/",
+  "gmail": "akanechiwa.ch@gmail.com",
+  "botName": "ChiwaBotMd",
+  "footer": "© ChiwaBot-Md",
+  "sessionName": "session",
+  "fotoDonasi": "./dana.jpg",
+  "saweria": "https://saweria.co/Juun4",
+  "trakteer": "https://trakteer.id/juun4",
+  "pathimg": "https://telegra.ph/file/32f3ab0a07263369679a1.jpg",
+  "gifmenu": "https://telegra.ph/file/799cf6d0fcc2ebb28b73e.mp4",
+  "BotKey": "Ya8mZzbY6hsNFR4",
+  "ZenzKey": "zenzkey_120723fad9",
+  "XznKey": "Palzz",
+  "audio_di_bagian_menu": "./media/menu.mp3",
+  "audio_di_bagian_owner": "./media/owner.mp3",
+  "auto_welcomeMsg": true,
+  "auto_leaveMsg": true,
+  "antiViewOnce": false,
+  "grupOnly": false,
+  "antiDelete": false,
+  "autobio": false,
+  "anticall": true,
+  "autorespond": false,
+  "autoblok212": false,
+  "autoread": true,
+  "gamewaktu": 90,
+  "limitCount": 20,
+  "gcount": {
+    "prem": 1000,
+    "user": 15
+  }
+}
